@@ -1,4 +1,4 @@
-# CONSUMO DA API VIACEP
+# CONSUMO API's
 
 ![](../screenshot/viacep.gif)
 
@@ -6,11 +6,7 @@
 
 ## Sobre o projeto
 
-Aplicação feita em Javascript puro (vanilla.JS), para consumir a API publica da VIACEP, que retorna informações de um CEP.
-Para isso criamos um formulário de cadastro, que preenche automaticamente os campos de endereço, bairro, cidade e estado.
-
-* [Teste a aplicação](https://fernandoleonid.github.io/consumo-api-js/01-viacep/)
-* [Videoaula](https://youtu.be/imk6Y0viabg)
+Aplicação feita em JavaScript para consumir as API's: ViaCep, Postmon e Brasil API
 
 ---
 ## Tecnologias utilizadas
@@ -20,9 +16,11 @@ Para isso criamos um formulário de cadastro, que preenche automaticamente os ca
  - FETCH
  - ASYNC / AWAIT
  - REGEX
- - [VIACEP](https://viacep.com.br/)
+ - [ViaCep](https://viacep.com.br/)
+ - [Postmon](https://postmon.com.br/)
+ - [BrasilAPI](https://brasilapi.com.br/)
 
  ---
- ## Autor
+ ## Autora
 
-[![](https://avatars.githubusercontent.com/u/42476943?v=4&s=100)](https://github.com/fernandoleonid)# api-cep
+[Yasmin Gonçalves](https://github.com/yasmingcv)
